@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter App developer from Pakistan</h3>
 
 <img 
-align="right" alt="Coding Gif"
+align="right" alt="Coding Gif" width="400"
 src="https://i.pinimg.com/originals/87/9d/d6/879dd60de473de0e0128a42352c085e7.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafia3&label=Profile%20views&color=0e75b6&style=flat" alt="shafia3" /> </p>
