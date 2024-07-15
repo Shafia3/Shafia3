@@ -11,13 +11,9 @@ src="https://i.pinimg.com/originals/87/9d/d6/879dd60de473de0e0128a42352c085e7.gi
 
 - 🌱 I’m currently learning **Flutter Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shafia3](https://github.com/Shafia3)
-
 - 💬 Ask me about **Flutter ,Dart Language, UI/UX Design**
 
 - 📫 How to reach me **shafiach37@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/shafia-ch-837a0a220](https://www.linkedin.com/in/shafia-ch-837a0a220)
 
 - ⚡ Fun fact **I'm a good Photographer**
 
